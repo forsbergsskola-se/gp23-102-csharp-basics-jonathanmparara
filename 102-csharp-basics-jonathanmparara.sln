@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{73603980-2CEF-4620-8778-F3731D9A50A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4comments", "p4comments\p4comments.csproj", "{D172338D-4A15-40D7-994B-2C7AC60C21BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73603980-2CEF-4620-8778-F3731D9A50A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73603980-2CEF-4620-8778-F3731D9A50A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73603980-2CEF-4620-8778-F3731D9A50A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73603980-2CEF-4620-8778-F3731D9A50A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D172338D-4A15-40D7-994B-2C7AC60C21BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D172338D-4A15-40D7-994B-2C7AC60C21BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D172338D-4A15-40D7-994B-2C7AC60C21BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D172338D-4A15-40D7-994B-2C7AC60C21BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
