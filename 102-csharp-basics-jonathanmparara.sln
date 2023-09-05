@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5Variables", "P5Variables\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6Datatypes", "P6Datatypes\P6Datatypes.csproj", "{0A4A0968-8883-4A55-8846-B4F5EA9171D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7Input", "P7Input\P7Input.csproj", "{23DDEBB8-4AFE-4BE6-84DD-D394AB1122A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0A4A0968-8883-4A55-8846-B4F5EA9171D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4A0968-8883-4A55-8846-B4F5EA9171D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4A0968-8883-4A55-8846-B4F5EA9171D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DDEBB8-4AFE-4BE6-84DD-D394AB1122A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DDEBB8-4AFE-4BE6-84DD-D394AB1122A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DDEBB8-4AFE-4BE6-84DD-D394AB1122A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DDEBB8-4AFE-4BE6-84DD-D394AB1122A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
