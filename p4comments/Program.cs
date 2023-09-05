@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// JonathanMparara
+// date - 05/09/2023
+// jonathan.mparara@student.forsbergsskola.se
 
 Console.WriteLine("Hello, World!");
