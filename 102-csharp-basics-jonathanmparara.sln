@@ -10,9 +10,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6Datatypes", "P6Datatypes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7Input", "P7Input\P7Input.csproj", "{23DDEBB8-4AFE-4BE6-84DD-D394AB1122A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8Conversion", "P8Conversion\P8Conversion.csproj", "{3087D3E2-B099-4F9F-A88F-8A2DEEBC1D35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-Conversion", "P-Conversion\P-Conversion.csproj", "{3087D3E2-B099-4F9F-A88F-8A2DEEBC1D35}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p9Exercise", "p9Exercise\p9Exercise.csproj", "{DCD2021C-258C-49FC-B65C-CA469BAD5E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p8Boolean", "p8Boolean\p8Boolean.csproj", "{C52E9CCF-6B2B-4525-A58A-C29EC06C495F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,5 +50,9 @@ Global
 		{DCD2021C-258C-49FC-B65C-CA469BAD5E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCD2021C-258C-49FC-B65C-CA469BAD5E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCD2021C-258C-49FC-B65C-CA469BAD5E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52E9CCF-6B2B-4525-A58A-C29EC06C495F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52E9CCF-6B2B-4525-A58A-C29EC06C495F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52E9CCF-6B2B-4525-A58A-C29EC06C495F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52E9CCF-6B2B-4525-A58A-C29EC06C495F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
