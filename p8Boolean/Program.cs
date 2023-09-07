@@ -12,4 +12,7 @@ Console.WriteLine($"you are a teenager:{isTeenager}");// Console.WriteLine("you 
 bool isGrownUp = age > 19; 
 Console.WriteLine($" look at you all grown up:{isGrownUp}"); // Console.WriteLine(" look at you all grown up" + isGrownUp);
     
+    //@ is used to ade ne lines to a string and \n
+
+    //$ is used when putting a variabel into a sentence
     
