@@ -37,6 +37,14 @@ else
     Console.WriteLine("The number and your age 12 are equal");
 }
 
-if 
+if (number2 % 2 == 0)
+{
+    Console.WriteLine("It's an even number.");
+}
+else
+{
+    Console.WriteLine("It's an odd number.");
+}
+
 
 
