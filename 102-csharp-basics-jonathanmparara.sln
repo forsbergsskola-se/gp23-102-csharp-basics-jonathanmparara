@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p8Boolean", "p8Boolean\p8Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11IfElse", "P11IfElse\P11IfElse.csproj", "{D9D5CD00-432A-49D4-988B-1F767A16144F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11grades", "P11grades\P11grades.csproj", "{27FF5849-029D-4A5E-B8A3-37D5CAACD435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12Random", "P12Random\P12Random.csproj", "{1E33CF4E-10D0-42F5-9ECD-872F8C5AA363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{D9D5CD00-432A-49D4-988B-1F767A16144F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D5CD00-432A-49D4-988B-1F767A16144F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D5CD00-432A-49D4-988B-1F767A16144F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FF5849-029D-4A5E-B8A3-37D5CAACD435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FF5849-029D-4A5E-B8A3-37D5CAACD435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FF5849-029D-4A5E-B8A3-37D5CAACD435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FF5849-029D-4A5E-B8A3-37D5CAACD435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E33CF4E-10D0-42F5-9ECD-872F8C5AA363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E33CF4E-10D0-42F5-9ECD-872F8C5AA363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E33CF4E-10D0-42F5-9ECD-872F8C5AA363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E33CF4E-10D0-42F5-9ECD-872F8C5AA363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
